@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sorting Visualizer</title>
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Sorting Visualizer</h1>
+  </header>
+
+  <!-- Control Panel -->
+  <section id="controls">
+    <button id="generate-array-btn">Generate New Array</button>
+
+    <button id="bubble-sort-btn">Bubble Sort</button>
+    <button id="selection-sort-btn">Selection Sort</button>
+    <button id="insertion-sort-btn">Insertion Sort</button>
+
+    <label for="size-range">Size:</label>
+    <input
+      type="range"
+      id="size-range"
+      min="10"
+      max="120"
+      value="40"
+    />
+
+    <label for="speed-range">Speed:</label>
+    <input
+      type="range"
+      id="speed-range"
+      min="10"
+      max="500"
+      value="200"
+    />
+
+    <button id="pause-btn">Pause</button>
+  </section>
+
+  <!-- Bars Container -->
+  <main>
+    <div id="bars-container">
+      <!-- Bars will be injected here by script.js -->
+    </div>
+  </main>
+
+  <!-- Status / Messages (optional but useful) -->
+  <footer>
+    <span id="status-text">Ready</span>
+  </footer>
+
+  <!-- Script -->
+  <script src="script.js"></script>
+</body>
+</html>
