@@ -82,7 +82,7 @@ An interactive web-based application that visually demonstrates how different so
 
 ## 📷 Demo
 
-(https://sk02265532014.github.io/Sorting-Visualizer/)
+<img width="1647" height="1013" alt="Screenshot 2026-04-02 132859" src="https://github.com/user-attachments/assets/3d01d071-91f3-4aba-88ac-a8e3ab9d87e8" />
 
 ---
 
