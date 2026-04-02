@@ -82,7 +82,7 @@ An interactive web-based application that visually demonstrates how different so
 
 ## 📷 Demo
 
-*(You can add screenshots or a hosted link here)*
+(https://sk02265532014.github.io/Sorting-Visualizer/)
 
 ---
 
