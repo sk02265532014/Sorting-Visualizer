@@ -1,3 +1,5 @@
+
+
 # 🔢 Sorting Visualizer
 
 An interactive web-based application that visually demonstrates how different sorting algorithms work in real time. This project helps users understand the internal mechanics of sorting through dynamic animations and color-coded states.
